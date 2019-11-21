@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "924302733874",
+    "firebase_url": "https://walk-n-win-1ca46.firebaseio.com",
+    "project_id": "walk-n-win-1ca46",
+    "storage_bucket": "walk-n-win-1ca46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924302733874:android:3505382c20a23eda",
+        "android_client_info": {
+          "package_name": "com.steps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924302733874-t5l6p03ag30gsk9das3hr8th2g2s04ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steps",
+            "certificate_hash": "8533b0ab871bfbc0dea03f0cbef7f46b7f75222e"
+          }
+        },
+        {
+          "client_id": "924302733874-m9157bvefed3ev4pe2krig837cupsvjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steps",
+            "certificate_hash": "62e9b4d57ff0cce6c42c4523c000f5a2a6af5793"
+          }
+        },
+        {
+          "client_id": "924302733874-tuq7tl87vaqeu5tl5ll8n9jvvk4m7501.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0MMcvelPkBXsMiEeLtmU1yb-oITQ17M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924302733874-tuq7tl87vaqeu5tl5ll8n9jvvk4m7501.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

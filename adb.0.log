@@ -1,0 +1,221 @@
+--- adb starting (pid 28921) ---
+adb I 03-04 09:42:30 28921 28921 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-04 09:42:30 28921 28921 main.cpp:56] Version 4986621
+adb I 03-04 09:42:30 28921 28921 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-04 09:42:30 28921 28921 main.cpp:56] 
+adb I 03-04 09:42:30 28921 28921 auth.cpp:421] adb_auth_init...
+adb I 03-04 09:42:30 28921 28921 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-04 09:42:30 28921 28921 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-04 09:42:30 28921 28929 transport.cpp:281] 278caf80cb1c7ece: read thread spawning
+adb I 03-04 09:42:30 28921 28930 transport.cpp:294] 278caf80cb1c7ece: write thread spawning
+adb I 03-04 09:42:30 28921 28921 auth.cpp:473] Calling send_auth_response
+adb I 03-04 09:42:30 28921 28921 adb.cpp:145] 278caf80cb1c7ece: offline
+adb server killed by remote request
+adb I 03-04 09:54:38 28921 28921 transport.cpp:337] BlockingConnectionAdapter(278caf80cb1c7ece): stopping
+adb I 03-04 09:54:38 28921 28929 transport.cpp:285] 278caf80cb1c7ece: read failed: Invalid argument
+adb I 03-04 09:54:38 28921 28921 transport.cpp:355] BlockingConnectionAdapter(278caf80cb1c7ece): stopped
+--- adb starting (pid 24067) ---
+adb I 03-05 07:51:58 24067 24067 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 07:51:58 24067 24067 main.cpp:56] Version 4986621
+adb I 03-05 07:51:58 24067 24067 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 07:51:58 24067 24067 main.cpp:56] 
+adb I 03-05 07:51:58 24067 24067 auth.cpp:421] adb_auth_init...
+adb I 03-05 07:51:58 24067 24067 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 07:51:58 24067 24067 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 07:51:58 24067 24074 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 07:51:58 24067 24075 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 07:51:58 24067 24067 auth.cpp:473] Calling send_auth_response
+adb I 03-05 07:51:58 24067 24067 auth.cpp:440] Calling send_auth_publickey
+adb I 03-05 07:52:01 24067 24067 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 07:53:08 24067 24067 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 07:53:08 24067 24074 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 07:53:08 24067 24067 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 26168) ---
+adb I 03-05 08:16:26 26168 26168 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 08:16:26 26168 26168 main.cpp:56] Version 4986621
+adb I 03-05 08:16:26 26168 26168 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 08:16:26 26168 26168 main.cpp:56] 
+adb I 03-05 08:16:26 26168 26168 auth.cpp:421] adb_auth_init...
+adb I 03-05 08:16:26 26168 26168 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 08:16:26 26168 26168 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 08:16:26 26168 26176 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 08:16:26 26168 26177 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 08:16:26 26168 26168 auth.cpp:473] Calling send_auth_response
+adb I 03-05 08:16:26 26168 26168 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 08:16:47 26168 26168 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 08:16:47 26168 26176 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 08:16:47 26168 26168 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 31074) ---
+adb I 03-05 10:27:10 31074 31074 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 10:27:10 31074 31074 main.cpp:56] Version 4986621
+adb I 03-05 10:27:10 31074 31074 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 10:27:10 31074 31074 main.cpp:56] 
+adb I 03-05 10:27:10 31074 31074 auth.cpp:421] adb_auth_init...
+adb I 03-05 10:27:10 31074 31074 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 10:27:10 31074 31074 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 10:27:10 31074 31081 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 10:27:10 31074 31082 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 10:27:10 31074 31074 auth.cpp:473] Calling send_auth_response
+adb I 03-05 10:27:10 31074 31074 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 10:28:09 31074 31074 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 10:28:09 31074 31081 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 10:28:09 31074 31074 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 32302) ---
+adb I 03-05 10:41:35 32302 32302 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 10:41:35 32302 32302 main.cpp:56] Version 4986621
+adb I 03-05 10:41:35 32302 32302 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 10:41:35 32302 32302 main.cpp:56] 
+adb I 03-05 10:41:35 32302 32302 auth.cpp:421] adb_auth_init...
+adb I 03-05 10:41:35 32302 32302 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 10:41:35 32302 32302 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 10:41:35 32302 32310 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 10:41:35 32302 32311 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 10:41:35 32302 32302 auth.cpp:473] Calling send_auth_response
+adb I 03-05 10:41:35 32302 32302 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 10:43:47 32302 32302 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 10:43:47 32302 32310 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 10:43:47 32302 32302 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 2076) ---
+adb I 03-05 11:08:30  2076  2076 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 11:08:30  2076  2076 main.cpp:56] Version 4986621
+adb I 03-05 11:08:30  2076  2076 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 11:08:30  2076  2076 main.cpp:56] 
+adb I 03-05 11:08:30  2076  2076 auth.cpp:421] adb_auth_init...
+adb I 03-05 11:08:30  2076  2076 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 11:08:30  2076  2076 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 11:08:30  2076  2085 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 11:08:30  2076  2084 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 11:08:30  2076  2076 auth.cpp:473] Calling send_auth_response
+adb I 03-05 11:08:30  2076  2076 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 11:09:24  2076  2076 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 11:09:24  2076  2084 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 11:09:24  2076  2076 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 13110) ---
+adb I 03-05 22:43:13 13110 13110 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 22:43:13 13110 13110 main.cpp:56] Version 4986621
+adb I 03-05 22:43:13 13110 13110 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 22:43:13 13110 13110 main.cpp:56] 
+adb I 03-05 22:43:13 13110 13110 auth.cpp:421] adb_auth_init...
+adb I 03-05 22:43:13 13110 13110 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 22:43:13 13110 13110 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 22:43:13 13110 13117 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 22:43:13 13110 13118 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 22:43:13 13110 13110 auth.cpp:473] Calling send_auth_response
+adb I 03-05 22:43:13 13110 13110 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 23:08:23 13110 13110 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 23:08:23 13110 13117 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 23:08:23 13110 13110 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 15177) ---
+adb I 03-05 23:28:12 15177 15177 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 23:28:12 15177 15177 main.cpp:56] Version 4986621
+adb I 03-05 23:28:12 15177 15177 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 23:28:12 15177 15177 main.cpp:56] 
+adb I 03-05 23:28:12 15177 15177 auth.cpp:421] adb_auth_init...
+adb I 03-05 23:28:12 15177 15177 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 23:28:12 15177 15177 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 23:28:12 15177 15187 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 23:28:12 15177 15188 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 23:28:12 15177 15177 auth.cpp:473] Calling send_auth_response
+adb I 03-05 23:28:12 15177 15177 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 23:35:54 15177 15177 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 23:35:54 15177 15187 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 23:35:54 15177 15177 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 15951) ---
+adb I 03-05 23:36:04 15951 15951 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-05 23:36:04 15951 15951 main.cpp:56] Version 4986621
+adb I 03-05 23:36:04 15951 15951 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-05 23:36:04 15951 15951 main.cpp:56] 
+adb I 03-05 23:36:04 15951 15951 auth.cpp:421] adb_auth_init...
+adb I 03-05 23:36:04 15951 15951 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-05 23:36:04 15951 15951 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-05 23:36:04 15951 15960 transport.cpp:281] 025d526f48462f72: read thread spawning
+adb I 03-05 23:36:04 15951 15961 transport.cpp:294] 025d526f48462f72: write thread spawning
+adb I 03-05 23:36:04 15951 15951 auth.cpp:473] Calling send_auth_response
+adb I 03-05 23:36:04 15951 15951 adb.cpp:145] 025d526f48462f72: offline
+adb server killed by remote request
+adb I 03-05 23:43:41 15951 15951 transport.cpp:337] BlockingConnectionAdapter(025d526f48462f72): stopping
+adb I 03-05 23:43:41 15951 15960 transport.cpp:285] 025d526f48462f72: read failed: Invalid argument
+adb I 03-05 23:43:41 15951 15951 transport.cpp:355] BlockingConnectionAdapter(025d526f48462f72): stopped
+--- adb starting (pid 23893) ---
+adb I 03-06 01:04:16 23893 23893 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-06 01:04:16 23893 23893 main.cpp:56] Version 4986621
+adb I 03-06 01:04:16 23893 23893 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-06 01:04:16 23893 23893 main.cpp:56] 
+adb I 03-06 01:04:16 23893 23893 auth.cpp:421] adb_auth_init...
+adb I 03-06 01:04:16 23893 23893 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-06 01:04:16 23893 23893 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-06 10:44:17 23893 24138 transport.cpp:294] 278caf80cb1c7ece: write thread spawning
+adb I 03-06 10:44:17 23893 24137 transport.cpp:281] 278caf80cb1c7ece: read thread spawning
+adb I 03-06 10:44:18 23893 23893 auth.cpp:473] Calling send_auth_response
+adb I 03-06 10:44:18 23893 23893 adb.cpp:145] 278caf80cb1c7ece: offline
+adb I 03-06 10:44:21 23893 24137 transport.cpp:285] 278caf80cb1c7ece: read failed: Protocol error
+adb I 03-06 10:44:21 23893 23893 adb.cpp:145] 278caf80cb1c7ece: offline
+adb I 03-06 10:44:21 23893 23893 transport.cpp:337] BlockingConnectionAdapter(278caf80cb1c7ece): stopping
+adb I 03-06 10:44:21 23893 23893 transport.cpp:355] BlockingConnectionAdapter(278caf80cb1c7ece): stopped
+adb I 03-06 10:44:21 23893 23893 transport.cpp:269] BlockingConnectionAdapter(278caf80cb1c7ece): destructing
+adb I 03-06 10:44:21 23893 23893 transport.cpp:329] BlockingConnectionAdapter(278caf80cb1c7ece): already stopped
+adb I 03-06 10:44:22 23893 24576 transport.cpp:294] 278caf80cb1c7ece: write thread spawning
+adb I 03-06 10:44:22 23893 24575 transport.cpp:281] 278caf80cb1c7ece: read thread spawning
+adb I 03-06 10:44:22 23893 23893 auth.cpp:473] Calling send_auth_response
+adb I 03-06 10:44:22 23893 23893 adb.cpp:145] 278caf80cb1c7ece: offline
+adb server killed by remote request
+adb I 03-06 10:52:50 23893 23893 transport.cpp:337] BlockingConnectionAdapter(278caf80cb1c7ece): stopping
+adb I 03-06 10:52:50 23893 24575 transport.cpp:285] 278caf80cb1c7ece: read failed: Invalid argument
+adb I 03-06 10:52:50 23893 23893 transport.cpp:355] BlockingConnectionAdapter(278caf80cb1c7ece): stopped
+--- adb starting (pid 26269) ---
+adb I 26269 26269 main.cpp:83] Android Debug Bridge version 1.0.36
+adb I 26269 26269 main.cpp:83] Revision 1:7.0.0+r33-2
+adb I 26269 26269 main.cpp:83] 
+adb server killed by remote request
+--- adb starting (pid 26153) ---
+adb I 03-06 23:38:40 26153 26153 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-06 23:38:40 26153 26153 main.cpp:56] Version 4986621
+adb I 03-06 23:38:40 26153 26153 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-06 23:38:40 26153 26153 main.cpp:56] 
+adb I 03-06 23:38:40 26153 26153 auth.cpp:421] adb_auth_init...
+adb I 03-06 23:38:40 26153 26153 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-06 23:38:40 26153 26153 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-06 23:38:40 26153 26161 transport.cpp:281] 278caf80cb1c7ece: read thread spawning
+adb I 03-06 23:38:40 26153 26162 transport.cpp:294] 278caf80cb1c7ece: write thread spawning
+adb I 03-06 23:38:40 26153 26153 auth.cpp:473] Calling send_auth_response
+adb I 03-06 23:38:40 26153 26153 adb.cpp:145] 278caf80cb1c7ece: offline
+adb server killed by remote request
+adb I 03-06 23:39:01 26153 26153 transport.cpp:337] BlockingConnectionAdapter(278caf80cb1c7ece): stopping
+adb I 03-06 23:39:01 26153 26161 transport.cpp:285] 278caf80cb1c7ece: read failed: Invalid argument
+adb I 03-06 23:39:01 26153 26153 transport.cpp:355] BlockingConnectionAdapter(278caf80cb1c7ece): stopped
+--- adb starting (pid 26189) ---
+adb I 26189 26189 main.cpp:83] Android Debug Bridge version 1.0.36
+adb I 26189 26189 main.cpp:83] Revision 1:7.0.0+r33-2
+adb I 26189 26189 main.cpp:83] 
+adb server killed by remote request
+--- adb starting (pid 6819) ---
+adb I 03-07 23:46:46  6819  6819 main.cpp:56] Android Debug Bridge version 1.0.40
+adb I 03-07 23:46:46  6819  6819 main.cpp:56] Version 4986621
+adb I 03-07 23:46:46  6819  6819 main.cpp:56] Installed as /home/skills/Android/Sdk/platform-tools/adb
+adb I 03-07 23:46:46  6819  6819 main.cpp:56] 
+adb I 03-07 23:46:46  6819  6819 auth.cpp:421] adb_auth_init...
+adb I 03-07 23:46:46  6819  6819 auth.cpp:174] read_key_file '/home/skills/.android/adbkey'...
+adb I 03-07 23:46:46  6819  6819 auth.cpp:396] adb_auth_inotify_init...
+adb I 03-07 23:46:46  6819  6827 transport.cpp:281] 278caf80cb1c7ece: read thread spawning
+adb I 03-07 23:46:46  6819  6828 transport.cpp:294] 278caf80cb1c7ece: write thread spawning
+adb I 03-07 23:46:46  6819  6819 auth.cpp:473] Calling send_auth_response
+adb I 03-07 23:46:46  6819  6819 adb.cpp:145] 278caf80cb1c7ece: offline
+adb server killed by remote request
+adb I 03-07 23:47:07  6819  6819 transport.cpp:337] BlockingConnectionAdapter(278caf80cb1c7ece): stopping
+adb I 03-07 23:47:07  6819  6827 transport.cpp:285] 278caf80cb1c7ece: read failed: Invalid argument
+adb I 03-07 23:47:07  6819  6819 transport.cpp:355] BlockingConnectionAdapter(278caf80cb1c7ece): stopped
+--- adb starting (pid 6845) ---
+adb I  6845  6845 main.cpp:83] Android Debug Bridge version 1.0.36
+adb I  6845  6845 main.cpp:83] Revision 1:7.0.0+r33-2
+adb I  6845  6845 main.cpp:83] 
+--- adb starting (pid 9018) ---
+adb I  9018  9018 main.cpp:83] Android Debug Bridge version 1.0.36
+adb I  9018  9018 main.cpp:83] Revision 1:7.0.0+r33-2
+adb I  9018  9018 main.cpp:83] 
